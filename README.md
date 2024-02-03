@@ -28,7 +28,19 @@ Este repositório visa reunir artigos voltados para enriquecer e aprimorar as ha
 - [Aprenda o básico de Git em menos de 10 minutos](https://www.freecodecamp.org/portuguese/news/aprenda-o-basico-de-git-em-menos-de-10-minutos/)
 - [Tutorial de Git e GitHub – controle de versão para iniciantes](https://www.freecodecamp.org/portuguese/news/tutorial-de-git-e-github-controle-de-versao-para-iniciantes/)
 - [How to Visualize Confusing Git Commands with Git-Sim](https://www.freecodecamp.org/news/git-sim/)
-- [Para brincar com git](https://git-school.github.io/visualizing-git/#free) 
+- [Para brincar com git](https://git-school.github.io/visualizing-git/#free)
+
+### JavaScript
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+### Node
+- [Como instalar o Node.js e o npm no Windows](https://www.freecodecamp.org/portuguese/news/como-instalar-o-node-js-e-o-npm-no-windows/)
+
+### Express
+- [Instalação](https://expressjs.com/pt-br/starter/installing.html)
+- [Exemplo Hello World](https://expressjs.com/pt-br/starter/hello-world.html)
+- [Roteamento Básico](https://expressjs.com/pt-br/starter/basic-routing.html)
+- [Entregando arquivos estáticos no Express](https://expressjs.com/pt-br/starter/static-files.html) 
 
 
 ## Como Contribuir

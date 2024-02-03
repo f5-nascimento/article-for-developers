@@ -27,9 +27,8 @@ Este repositório visa reunir artigos voltados para enriquecer e aprimorar as ha
 - [Começando - Instalando o Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
 - [Aprenda o básico de Git em menos de 10 minutos](https://www.freecodecamp.org/portuguese/news/aprenda-o-basico-de-git-em-menos-de-10-minutos/)
 - [Tutorial de Git e GitHub – controle de versão para iniciantes](https://www.freecodecamp.org/portuguese/news/tutorial-de-git-e-github-controle-de-versao-para-iniciantes/)
-- [Para brincar com git](https://git-school.github.io/visualizing-git/#free)
-
-  
+- [How to Visualize Confusing Git Commands with Git-Sim](https://www.freecodecamp.org/news/git-sim/)
+- [Para brincar com git](https://git-school.github.io/visualizing-git/#free) 
 
 
 ## Como Contribuir

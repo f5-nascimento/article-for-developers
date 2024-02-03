@@ -50,6 +50,12 @@ Este repositório visa reunir artigos voltados para enriquecer e aprimorar as ha
 ### Docker
 - [Use containers to Build, Share and Run your applications](https://www.docker.com/resources/what-container/)
 
+### Async/Await
+- [JavaScript Assíncrono: O Guia Completo - Parte 5 - Entendendo Async/Await](https://hcode.com.br/blog/javascript-assincrono-o-guia-completo-parte-5-entendendo-async-await)
+- [Async/await no JavaScript: o que é e quando usar a programação assíncrona?](https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar)
+- [Usando o Async / Await do JavaScript](https://www.treinaweb.com.br/blog/usando-o-async-await-do-javascript)
+- [Quando utilizar Promises ou Async Await?](https://blog.rocketseat.com.br/quando-utililzar-promises-e-async-await-no-useeffect-do-react/)
+  
 
 ## Como Contribuir
 

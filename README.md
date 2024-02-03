@@ -20,7 +20,8 @@ Este repositório visa reunir artigos voltados para enriquecer e aprimorar as ha
 - [O que é uma API REST?](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api)
 - [Modelo de maturidade de Richardson para APIs REST](https://rivaildojunior.medium.com/modelo-de-maturidade-de-richardson-para-apis-rest-8845f93b288)
 
-
+### JSON
+- [Afinal, o que é JSON e para que ele serve?](https://rockcontent.com/br/blog/json/)
 
 
 ## Como Contribuir

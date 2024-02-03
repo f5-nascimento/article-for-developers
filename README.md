@@ -1,6 +1,6 @@
 # Articles for developers
 
-Este repositório visa reunir artigos voltados para desenvolvedores.
+Este repositório visa reunir artigos voltados para enriquecer e aprimorar as habilidades dos desenvolvedores em diversas áreas.
 
 ## Artigos
 

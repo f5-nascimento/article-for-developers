@@ -40,7 +40,12 @@ Este repositório visa reunir artigos voltados para enriquecer e aprimorar as ha
 - [Instalação](https://expressjs.com/pt-br/starter/installing.html)
 - [Exemplo Hello World](https://expressjs.com/pt-br/starter/hello-world.html)
 - [Roteamento Básico](https://expressjs.com/pt-br/starter/basic-routing.html)
-- [Entregando arquivos estáticos no Express](https://expressjs.com/pt-br/starter/static-files.html) 
+- [Entregando arquivos estáticos no Express](https://expressjs.com/pt-br/starter/static-files.html)
+
+### MVC
+- [O que é arquitetura MVC?](https://coodesh.com/blog/dicionario/o-que-e-arquitetura-mvc/#:~:text=Basicamente%2C%20a%20arquitetura%20MVC%20%C3%A9,camada%20de%20controle%20(controller))
+- [Controller e Service - Uma breve introdução](https://dev.to/gabrielhsilvestre/controller-e-service-uma-breve-introducao-24hk#:~:text=Como%20dito%20em%20sua%20defini%C3%A7%C3%A3o,seja%20ela%20positiva%20ou%20negativa)
+- [Movendo a lógica de sua aplicação para Services e Repositories](https://dev.to/tadeubdev/movendo-a-logica-de-sua-aplicacao-para-services-e-repositories-4lee)
 
 
 ## Como Contribuir
